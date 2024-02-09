@@ -119,7 +119,7 @@ public class JogoDaVeia {
 
             }else{
 
-                System.out.println("O jogador 2 venceu.");
+                System.out.println("O jogador -1 venceu.");
 
             }
 
